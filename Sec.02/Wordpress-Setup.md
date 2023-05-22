@@ -13,3 +13,9 @@
 【設定例】
 ![設定例](https://github.com/yuasys/Brizy-Wordpress-tutorial/blob/main/images/image%2011.png)
 
+### 最後の「P」パーマリンクを設定する
+
+【設定例】
+![image]()
+
+
