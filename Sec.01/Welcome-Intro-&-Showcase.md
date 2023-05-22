@@ -1,4 +1,4 @@
-# 01　Welcome-Intro-&-Showcase.md
+# 01 Welcome-Intro-&-Showcase.md
 
 教材動画: https://www.youtube.com/watch?v=DJZ-thLLv1A&list=PLSWJ3G5dn_5jtFakS3iiRYcjBm7I_cVoN&index=1&t=0s
 
