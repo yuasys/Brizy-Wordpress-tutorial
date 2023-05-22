@@ -1,4 +1,4 @@
-# Wordpress-Setup.md
+# 02 Wordpress-Setup.md
 
 参照元: https://www.youtube.com/watch?v=DJZ-thLLv1A&list=PLSWJ3G5dn_5jtFakS3iiRYcjBm7I_cVoN&index=1&t=163s
 
