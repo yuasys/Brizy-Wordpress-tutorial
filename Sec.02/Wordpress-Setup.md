@@ -10,5 +10,5 @@
 
 ### Setting（設定 一般）作業をする
 
-![設定例](https://github.com/yuasys/Brizy-Wordpress-tutorial/blob/main/images/image%2010.png)
+![設定例](https://github.com/yuasys/Brizy-Wordpress-tutorial/blob/main/images/image%2011.png)
 
