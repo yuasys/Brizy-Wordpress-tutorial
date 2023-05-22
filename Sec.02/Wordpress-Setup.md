@@ -17,3 +17,7 @@
 
 【設定例】
 ![パーマリンク設定例](https://github.com/yuasys/Brizy-Wordpress-tutorial/blob/main/images/permalink_settings.png)
+
+### テーマのインストールと有効化
+
+![テーマ](https://github.com/yuasys/Brizy-Wordpress-tutorial/blob/main/images/Theme_blocksy.png)
